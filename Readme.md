@@ -12,4 +12,4 @@ We do this to protect the raw data work on the staging table because what if som
 
 🌻 **Learnt a cool way to remove duplicates**
 
-check the [project file](data-analysis-project-1.sql), line 23 onwards
+check the [project file](data-analysis-project-1\1-data-cleaning.sql), line 23 onwards
