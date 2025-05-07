@@ -4,6 +4,10 @@ Here I will start updating about my journey of learning data science every day..
 
 Just click the links on each day to read the entire update on what i studied that particular day.
 
+## [Day 4 - 07.05.25](daily-updates/Day-4-070525.md)
+
+Studied the persist & caching & started studying spark architecture
+
 ## [Day 3 - 06.05.25](daily-updates/Day-3-060525.md)
 
 Studied the various read modes in spark, write & other operations
