@@ -2,6 +2,16 @@
 
 Here I will start updating about my journey of learning data science every day...
 
+Just click the links on each day to read the entire update on what i studied that particular day.
+
+## [Day 3 - 06.05.25](daily-updates/Day-3-060525.md)
+
+Studied the various read modes in spark, write & other operations
+
+## [Day 2 - 05.05.25](daily-updates/Day-2-050525.md)
+
+Completed basic data exploration with sql. Then I tried my hands on the spark course which i was already half way in.
+
 ## Day 1 - 04.05.25
 
 🌻 **Learnt about Staging**
@@ -12,4 +22,4 @@ We do this to protect the raw data work on the staging table because what if som
 
 🌻 **Learnt a cool way to remove duplicates**
 
-check the [project file](data-analysis-project-1\1-data-cleaning.sql), line 23 onwards
+check the [project file](data-analysis-project-1/1-data-cleaning.sql), line 18 onwards
