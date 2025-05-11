@@ -4,6 +4,14 @@ Here I will start updating about my journey of learning data science every day..
 
 Just click the links on each day to read the entire update on what i studied that particular day.
 
+## [Day 7 - 11.05.25](daily-updates/Day-7-110525.md)
+
+Started a project on Excel based data analysis
+
+## Day 5 - 6 (09.05.25 - 10.05.25)
+
+Revised Excel & SQL
+
 ## [Day 4 - 07.05.25](daily-updates/Day-4-070525.md)
 
 Studied the persist & caching & started studying spark architecture
