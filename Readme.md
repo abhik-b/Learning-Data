@@ -4,9 +4,13 @@ Here I will start updating about my journey of learning data science every day..
 
 Just click the links on each day to read the entire update on what i studied that particular day.
 
-## [Day 7 - 11.05.25](daily-updates/Day-7-110525.md)
+## [Day 8 - 13.05.25](daily-updates/Day-8-130525.md)
 
-Started a project on Excel based data analysis
+Started the google analytics course
+
+## Day 7 - 11.05.25
+
+Started a project on Excel based data analysis. (Could not continue due to my inability to comprehend, will resume after completeing the google analytics course )
 
 ## Day 5 - 6 (09.05.25 - 10.05.25)
 
