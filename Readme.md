@@ -4,6 +4,10 @@ Here I will start updating about my journey of learning data science every day..
 
 Just click the links on each day to read the entire update on what i studied that particular day.
 
+## Day 9 - 14.05.25
+
+🥳 Completed the Foundation: Data, Data, Everywhere course !
+
 ## [Day 8 - 13.05.25](daily-updates/Day-8-130525.md)
 
 Started the google analytics course
